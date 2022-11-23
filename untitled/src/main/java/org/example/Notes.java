@@ -14,4 +14,9 @@ public class Notes {
     //collect cards(?)
 
 
+    //NOTES
+
+    //52 cards. 2 players -> 26 random cards each
+
+
 }
